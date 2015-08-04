@@ -1,0 +1,18 @@
+{
+  "name": "Paper and Packaging - Reorder Posts Plugin",
+  "type": "project",
+  "license": "MIT",
+  "description": "Paper and Packaging composer file",
+  "homepage": "http://howlifeunfolds.com",
+  "authors": [
+    {
+      "name": "Joystick Interactive",
+      "email": "info@joystickinteractive.com",
+      "homepage": "http://joystickintercactive.com"
+    }
+  ],
+  "keywords": [
+    "paper", "packaging"
+  ]
+  
+}

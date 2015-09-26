@@ -408,8 +408,8 @@ final class MN_Reorder {
 			array(
 				'post_type'      => $this->post_type,
 				'posts_per_page' => $this->posts_per_page,
-				'orderby'        => 'menu_order title',
-				'order'          => $this->order,
+				// 'orderby'        => 'menu_order title',
+				// 'order'          => $this->order,
 				'post_status'    => $this->post_status,
 				'post_parent' => 0,
 				'offset' => $offset,
